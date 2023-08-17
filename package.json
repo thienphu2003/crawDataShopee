@@ -1,0 +1,23 @@
+{
+  "name": "fhfhfhghgh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec ts-node index.ts",
+    "dev": " ts-node index.ts",
+    "test_craw_product": "ts-node crawProducts.ts",
+    "testing": "nodemon --exec ts-node test.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "nodemon": "^3.0.1",
+    "puppeteer": "^21.0.2",
+    "ts-node": "^10.9.1"
+  }
+}

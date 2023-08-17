@@ -1,0 +1,1206 @@
+{
+  "category": [
+    {
+      "link": "https://shopee.vn/Balo-T%C3%BAi-V%C3%AD-Nam-cat.11035741",
+      "content": "Balo & Túi Ví Nam",
+      "image": "https://down-vn.img.susercontent.com/file/18fd9d878ad946db2f1bf4e33760c86f_tn"
+    },
+    {
+      "link": "https://shopee.vn/B%C3%A1ch-H%C3%B3a-Online-cat.11036525",
+      "content": "Bách Hóa Online",
+      "image": "https://down-vn.img.susercontent.com/file/c432168ee788f903f1ea024487f2c889_tn"
+    },
+    {
+      "link": "https://shopee.vn/Ch%C4%83m-S%C3%B3c-Th%C3%BA-C%C6%B0ng-cat.11036478",
+      "content": "Chăm Sóc Thú Cưng",
+      "image": "https://down-vn.img.susercontent.com/file/cdf21b1bf4bfff257efe29054ecea1ec_tn"
+    },
+    {
+      "link": "https://shopee.vn/D%E1%BB%A5ng-c%E1%BB%A5-v%C3%A0-thi%E1%BA%BFt-b%E1%BB%8B-ti%E1%BB%87n-%C3%ADch-cat.11116484",
+      "content": "Dụng cụ và thiết bị tiện ích",
+      "image": "https://down-vn.img.susercontent.com/file/e4fbccba5e1189d1141b9d6188af79c0_tn"
+    },
+    {
+      "link": "https://shopee.vn/Gi%C3%A0y-D%C3%A9p-Nam-cat.11035801",
+      "content": "Giày Dép Nam",
+      "image": "https://down-vn.img.susercontent.com/file/74ca517e1fa74dc4d974e5d03c3139de_tn"
+    },
+    {
+      "link": "https://shopee.vn/M%C3%A1y-T%C3%ADnh-Laptop-cat.11035954",
+      "content": "Máy Tính & Laptop",
+      "image": "https://down-vn.img.susercontent.com/file/c3f3edfaa9f6dafc4825b77d8449999d_tn"
+    },
+    {
+      "link": "https://shopee.vn/M%C3%A1y-%E1%BA%A2nh-M%C3%A1y-Quay-Phim-cat.11036101",
+      "content": "Máy Ảnh & Máy Quay Phim",
+      "image": "https://down-vn.img.susercontent.com/file/ec14dd4fc238e676e43be2a911414d4d_tn"
+    },
+    {
+      "link": "https://shopee.vn/M%E1%BA%B9-B%C3%A9-cat.11036194",
+      "content": "Mẹ & Bé",
+      "image": "https://down-vn.img.susercontent.com/file/099edde1ab31df35bc255912bab54a5e_tn"
+    },
+    {
+      "link": "https://shopee.vn/Nh%C3%A0-C%E1%BB%ADa-%C4%90%E1%BB%9Di-S%E1%BB%91ng-cat.11036670",
+      "content": "Nhà Cửa & Đời Sống",
+      "image": "https://down-vn.img.susercontent.com/file/24b194a695ea59d384768b7b471d563f_tn"
+    },
+    {
+      "link": "https://shopee.vn/Nh%C3%A0-S%C3%A1ch-Online-cat.11036863",
+      "content": "Nhà Sách Online",
+      "image": "https://down-vn.img.susercontent.com/file/36013311815c55d303b0e6c62d6a8139_tn"
+    },
+    {
+      "link": "https://shopee.vn/S%E1%BB%A9c-Kh%E1%BB%8Fe-cat.11036345",
+      "content": "Sức Khỏe",
+      "image": "https://down-vn.img.susercontent.com/file/49119e891a44fa135f5f6f5fd4cfc747_tn"
+    },
+    {
+      "link": "https://shopee.vn/Thi%E1%BA%BFt-B%E1%BB%8B-%C4%90i%E1%BB%87n-Gia-D%E1%BB%A5ng-cat.11036971",
+      "content": "Thiết Bị Điện Gia Dụng",
+      "image": "https://down-vn.img.susercontent.com/file/7abfbfee3c4844652b4a8245e473d857_tn"
+    },
+    {
+      "link": "https://shopee.vn/Thi%E1%BA%BFt-B%E1%BB%8B-%C4%90i%E1%BB%87n-T%E1%BB%AD-cat.11036132",
+      "content": "Thiết Bị Điện Tử",
+      "image": "https://down-vn.img.susercontent.com/file/978b9e4cb61c611aaaf58664fae133c5_tn"
+    },
+    {
+      "link": "https://shopee.vn/Th%E1%BB%83-Thao-Du-L%E1%BB%8Bch-cat.11035478",
+      "content": "Thể Thao & Du Lịch",
+      "image": "https://down-vn.img.susercontent.com/file/6cb7e633f8b63757463b676bd19a50e4_tn"
+    },
+    {
+      "link": "https://shopee.vn/Th%E1%BB%9Di-Trang-Nam-cat.11035567",
+      "content": "Thời Trang Nam",
+      "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b_tn"
+    },
+    {
+      "link": "https://shopee.vn/T%C3%BAi-V%C3%AD-N%E1%BB%AF-cat.11035761",
+      "content": "Túi Ví Nữ",
+      "image": "https://down-vn.img.susercontent.com/file/fa6ada2555e8e51f369718bbc92ccc52_tn"
+    },
+    {
+      "link": "https://shopee.vn/Voucher-D%E1%BB%8Bch-V%E1%BB%A5-cat.11035898",
+      "content": "Voucher & Dịch Vụ",
+      "image": "https://down-vn.img.susercontent.com/file/b0f78c3136d2d78d49af71dd1c3f38c1_tn"
+    },
+    {
+      "link": "https://shopee.vn/%C3%94-T%C3%B4-Xe-M%C3%A1y-Xe-%C4%90%E1%BA%A1p-cat.11036793",
+      "content": "Ô Tô & Xe Máy & Xe Đạp",
+      "image": "https://down-vn.img.susercontent.com/file/3fb459e3449905545701b418e8220334_tn"
+    },
+    {
+      "link": "https://shopee.vn/%C4%90i%E1%BB%87n-Tho%E1%BA%A1i-Ph%E1%BB%A5-Ki%E1%BB%87n-cat.11036030",
+      "content": "Điện Thoại & Phụ Kiện",
+      "image": "https://down-vn.img.susercontent.com/file/31234a27876fb89cd522d7e3db1ba5ca_tn"
+    },
+    {
+      "link": "https://shopee.vn/%C4%90%E1%BB%93-Ch%C6%A1i-cat.11036932",
+      "content": "Đồ Chơi",
+      "image": "https://down-vn.img.susercontent.com/file/ce8f8abc726cafff671d0e5311caa684_tn"
+    }
+  ],
+  "shop": [
+    {
+      "name": "amour_vn",
+      "shop_link": "https://shopee.vn/amour_vn",
+      "logo": "https://down-vn.img.susercontent.com/file/251c1be4523bbb7529e6bb0c14e38432",
+      "category": "Balo & Túi Ví Nam"
+    },
+    {
+      "name": "Arctic Hunter Official Store",
+      "shop_link": "https://shopee.vn/arctichunter_official",
+      "logo": "https://down-vn.img.susercontent.com/file/2ff934c0828c0c9e51c8f138b2e2ad0c",
+      "category": "Balo & Túi Ví Nam"
+    },
+    {
+      "name": "at95handmade",
+      "shop_link": "https://shopee.vn/at95handmade",
+      "logo": "https://down-vn.img.susercontent.com/file/c94eb50e790432219e328164397c461d",
+      "category": "Balo & Túi Ví Nam"
+    },
+    {
+      "name": "Bama Bag",
+      "shop_link": "https://shopee.vn/bama.bag",
+      "logo": "https://down-vn.img.susercontent.com/file/1e704815c48927976494c5c28a59f186",
+      "category": "Balo & Túi Ví Nam"
+    },
+    {
+      "name": "Bee Gee",
+      "shop_link": "https://shopee.vn/beegeeoriginal",
+      "logo": "https://down-vn.img.susercontent.com/file/ff5afd14a5f6a47e54648ca27f599166",
+      "category": "Balo & Túi Ví Nam"
+    },
+    {
+      "name": "AB InBev VN",
+      "shop_link": "https://shopee.vn/abinbevvietnam",
+      "logo": "https://down-vn.img.susercontent.com/file/9ddbebb6188eae7fa49251c3bfb9ec23",
+      "category": "Bách Hóa Online"
+    },
+    {
+      "name": "Abbott",
+      "shop_link": "https://shopee.vn/abbottofficial",
+      "logo": "https://down-vn.img.susercontent.com/file/03b216ad2dfbb3d09c1776cdb88c01cd",
+      "category": "Bách Hóa Online"
+    },
+    {
+      "name": "Ajinomoto Official Store",
+      "shop_link": "https://shopee.vn/ajinomoto_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/7280bdfd7ad3f6936b8729cd3d5d2dfc",
+      "category": "Bách Hóa Online"
+    },
+    {
+      "name": "Almond Breeze",
+      "shop_link": "https://shopee.vn/almondbreezevn",
+      "logo": "https://down-vn.img.susercontent.com/file/67afb2bc2714cbc6700d43b3684c65ce",
+      "category": "Bách Hóa Online"
+    },
+    {
+      "name": "An Thịnh Việt",
+      "shop_link": "https://shopee.vn/anthinhvietofficial",
+      "logo": "https://down-vn.img.susercontent.com/file/c344ca3b547c91fcef35252a5e7c01fc",
+      "category": "Bách Hóa Online"
+    },
+    {
+      "name": "Ăn vặt Vị",
+      "shop_link": "https://shopee.vn/2gtrading",
+      "logo": "https://down-vn.img.susercontent.com/file/a3b3d483bd3cf9c55b8e678a44c2513f",
+      "category": "Bách Hóa Online"
+    },
+    {
+      "name": "Andros Asia",
+      "shop_link": "https://shopee.vn/andros.asia",
+      "logo": "https://down-vn.img.susercontent.com/file/8198ac04f5041bd9ce6a58430af31f8e",
+      "category": "Bách Hóa Online"
+    },
+    {
+      "name": "Anlene",
+      "shop_link": "https://shopee.vn/anlene_officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/452af176b0e56548a0a78104bfe64d48",
+      "category": "Bách Hóa Online"
+    },
+    {
+      "name": "beoncare",
+      "shop_link": "https://shopee.vn/beoncare",
+      "logo": "https://down-vn.img.susercontent.com/file/248df1a48f2c83da7870a5229742c7bb",
+      "category": "Chăm Sóc Thú Cưng"
+    },
+    {
+      "name": "Crystal Bay Official Store",
+      "shop_link": "https://shopee.vn/crystalbay_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/vn-50009109-cd96a60dfc35be46e27e0734f05ee764",
+      "category": "Chăm Sóc Thú Cưng"
+    },
+    {
+      "name": "Aqara",
+      "shop_link": "https://shopee.vn/aqaravn",
+      "logo": "https://down-vn.img.susercontent.com/file/23bc7ae34ef0ccf510e85b7d5f4a9b18",
+      "category": "Dụng cụ và thiết bị tiện ích"
+    },
+    {
+      "name": "CT Fast",
+      "shop_link": "https://shopee.vn/ctfast.store",
+      "logo": "https://down-vn.img.susercontent.com/file/0fdaa0722091f0f6ba73785aa13e986e",
+      "category": "Dụng cụ và thiết bị tiện ích"
+    },
+    {
+      "name": "Adda",
+      "shop_link": "https://shopee.vn/depthailannam",
+      "logo": "https://down-vn.img.susercontent.com/file/0b1723f9a3e34180f22711ede488fbd5",
+      "category": "Giày Dép Nam"
+    },
+    {
+      "name": "Be Classy",
+      "shop_link": "https://shopee.vn/beclassyvn",
+      "logo": "https://down-vn.img.susercontent.com/file/03573de11dff1d5eb319a4cabeb58e02",
+      "category": "Giày Dép Nam"
+    },
+    {
+      "name": "Be Classy",
+      "shop_link": "https://shopee.vn/momoco",
+      "logo": "https://down-vn.img.susercontent.com/file/03573de11dff1d5eb319a4cabeb58e02",
+      "category": "Giày Dép Nam"
+    },
+    {
+      "name": "BENTONI",
+      "shop_link": "https://shopee.vn/bentonivietnam.official",
+      "logo": "https://down-vn.img.susercontent.com/file/06f1e2b3d33b2d1d4ab13cc6e5a3ecce",
+      "category": "Giày Dép Nam"
+    },
+    {
+      "name": "beztkicks.store",
+      "shop_link": "https://shopee.vn/beztkicks.store",
+      "logo": "https://down-vn.img.susercontent.com/file/c9b1eb3e00f7c79065f91637a551b3e8",
+      "category": "Giày Dép Nam"
+    },
+    {
+      "name": "Aldo",
+      "shop_link": "https://shopee.vn/aldovietnamofficial",
+      "logo": "https://down-vn.img.susercontent.com/file/2eb9be14fb6641c6f8258f169ed21b05",
+      "category": "Giày Dép Nữ"
+    },
+    {
+      "name": "AMC House",
+      "shop_link": "https://shopee.vn/giaydepthai",
+      "logo": "https://down-vn.img.susercontent.com/file/547446954ff4a443736c3c4bd54c89f2",
+      "category": "Giày Dép Nữ"
+    },
+    {
+      "name": "bAimée & bAmor",
+      "shop_link": "https://shopee.vn/baimeebamor",
+      "logo": "https://down-vn.img.susercontent.com/file/273ffa09549f372f7d1c4ae7f4754013",
+      "category": "Giày Dép Nữ"
+    },
+    {
+      "name": "Bejo",
+      "shop_link": "https://shopee.vn/bejo2016",
+      "logo": "https://down-vn.img.susercontent.com/file/5d95b8c41d9f2a7ea6632f006d602813",
+      "category": "Giày Dép Nữ"
+    },
+    {
+      "name": "bioline.official",
+      "shop_link": "https://shopee.vn/bioline.official",
+      "logo": "https://down-vn.img.susercontent.com/file/755457788125f88d42a9cbd7263972d1",
+      "category": "Giày Dép Nữ"
+    },
+    {
+      "name": "Bita's",
+      "shop_link": "https://shopee.vn/bitas_store",
+      "logo": "https://down-vn.img.susercontent.com/file/f4041fb4b11840d6a5b578e553b0fdb7",
+      "category": "Giày Dép Nữ"
+    },
+    {
+      "name": "aht_corp.officialstore",
+      "shop_link": "https://shopee.vn/aht_corp.officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/6f4a802490e475def0154c5a94c88074",
+      "category": "Giặt Giũ & Chăm Sóc Nhà Cửa"
+    },
+    {
+      "name": "An An",
+      "shop_link": "https://shopee.vn/thaomocanan.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/b32237efcd91b4f20aea485954efcf41",
+      "category": "Giặt Giũ & Chăm Sóc Nhà Cửa"
+    },
+    {
+      "name": "AnEco",
+      "shop_link": "https://shopee.vn/anecomall",
+      "logo": "https://down-vn.img.susercontent.com/file/d5923b9ac645564333f965eb0f42f87d",
+      "category": "Giặt Giũ & Chăm Sóc Nhà Cửa"
+    },
+    {
+      "name": "Attack Official Store",
+      "shop_link": "https://shopee.vn/kao_officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/d8bba014ff9630ae35854d657f689cd5",
+      "category": "Giặt Giũ & Chăm Sóc Nhà Cửa"
+    },
+    {
+      "name": "Acer Flagship Store",
+      "shop_link": "https://shopee.vn/acer_flagshipstore",
+      "logo": "https://down-vn.img.susercontent.com/file/5ed287b3a5f2076ba13f46aee0b0cf2e",
+      "category": "Máy Tính & Laptop"
+    },
+    {
+      "name": "Acer Hàng Chính Hiệu",
+      "shop_link": "https://shopee.vn/acer_flagship_hch_store",
+      "logo": "https://down-vn.img.susercontent.com/file/5ed287b3a5f2076ba13f46aee0b0cf2e",
+      "category": "Máy Tính & Laptop"
+    },
+    {
+      "name": "acer_anphat_store",
+      "shop_link": "https://shopee.vn/acer_anphat_store",
+      "logo": "https://down-vn.img.susercontent.com/file/d4ed45413d819e6530375b0d342ae459",
+      "category": "Máy Tính & Laptop"
+    },
+    {
+      "name": "AD",
+      "shop_link": "https://shopee.vn/thietbiadcomputer",
+      "logo": "https://down-vn.img.susercontent.com/file/6a6587ae8a1b6f5a58dd5e2fb0cad3bb",
+      "category": "Máy Tính & Laptop"
+    },
+    {
+      "name": "Akko Gear",
+      "shop_link": "https://shopee.vn/akkovn",
+      "logo": "https://down-vn.img.susercontent.com/file/8b60254e9854c9dd50dfcf87f50cfc34",
+      "category": "Máy Tính & Laptop"
+    },
+    {
+      "name": "An Phát Official Store",
+      "shop_link": "https://shopee.vn/anphat_officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/96de0022ea689f6ce5db5e630bacccc2",
+      "category": "Máy Tính & Laptop"
+    },
+    {
+      "name": "Apple",
+      "shop_link": "https://shopee.vn/apple_flagship_store",
+      "logo": "https://down-vn.img.susercontent.com/file/9833088fd62135c66eac59ef0f3be192",
+      "category": "Máy Tính & Laptop"
+    },
+    {
+      "name": "Asus Hàng Chính Hiệu",
+      "shop_link": "https://shopee.vn/asus_flagship_hch_store",
+      "logo": "https://down-vn.img.susercontent.com/file/63a020a69dd033f0d11467810dd3687c",
+      "category": "Máy Tính & Laptop"
+    },
+    {
+      "name": "Asus Authorized Store",
+      "shop_link": "https://shopee.vn/asus_authorized_store",
+      "logo": "https://down-vn.img.susercontent.com/file/bf2cecd3c168946a28ae33e118495526",
+      "category": "Máy Tính & Laptop"
+    },
+    {
+      "name": "Asus Official Store",
+      "shop_link": "https://shopee.vn/asus.officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/324690f3b0f253ac684bfa686e1cff84",
+      "category": "Máy Tính & Laptop"
+    },
+    {
+      "name": "Canon Lê Bảo Minh",
+      "shop_link": "https://shopee.vn/le_bao_minh_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/f08725b2245cc86d32eae65d314dd5ad",
+      "category": "Máy Ảnh & Máy Quay Phim"
+    },
+    {
+      "name": "DJI Official Store",
+      "shop_link": "https://shopee.vn/dji.official",
+      "logo": "https://down-vn.img.susercontent.com/file/75d88079993e481881ae8a3390f2edaa",
+      "category": "Máy Ảnh & Máy Quay Phim"
+    },
+    {
+      "name": "Điện Máy Center",
+      "shop_link": "https://shopee.vn/dienmaycenterofficial",
+      "logo": "https://down-vn.img.susercontent.com/file/3d1c61b2cf57b80e953c37bfb0c36d72",
+      "category": "Máy Ảnh & Máy Quay Phim"
+    },
+    {
+      "name": "Abbott",
+      "shop_link": "https://shopee.vn/abbottofficial",
+      "logo": "https://down-vn.img.susercontent.com/file/03b216ad2dfbb3d09c1776cdb88c01cd",
+      "category": "Mẹ & Bé"
+    },
+    {
+      "name": "ABC123",
+      "shop_link": "https://shopee.vn/abc123.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/721a86f2ba8523bdeb246f9a42c80ce5",
+      "category": "Mẹ & Bé"
+    },
+    {
+      "name": "Aiwado",
+      "shop_link": "https://shopee.vn/aiwado",
+      "logo": "https://down-vn.img.susercontent.com/file/ba756f8708b79dbb243ce946f344b9b2",
+      "category": "Mẹ & Bé"
+    },
+    {
+      "name": "Ấm",
+      "shop_link": "https://shopee.vn/ambaby.official",
+      "logo": "https://down-vn.img.susercontent.com/file/22d3c18abb3ecfb1b9af51ead8599343",
+      "category": "Mẹ & Bé"
+    },
+    {
+      "name": "Aoberst",
+      "shop_link": "https://shopee.vn/aoberst_vietnam",
+      "logo": "https://down-vn.img.susercontent.com/file/fd54d595b3ac2c79e2e2b831ad5bc1c5",
+      "category": "Mẹ & Bé"
+    },
+    {
+      "name": "aplicaps_vietnam",
+      "shop_link": "https://shopee.vn/aplicaps_vietnam",
+      "logo": "https://down-vn.img.susercontent.com/file/a9d1d0f349c24926741c6b6aa0178c04",
+      "category": "Mẹ & Bé"
+    },
+    {
+      "name": "Aptamil Official Store",
+      "shop_link": "https://shopee.vn/aptamil_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/0984889405af7704d53d855576600a1e",
+      "category": "Mẹ & Bé"
+    },
+    {
+      "name": "Arau Baby",
+      "shop_link": "https://shopee.vn/araubaby_officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/4343e218f13b06026f31423ddcd59c8c",
+      "category": "Mẹ & Bé"
+    },
+    {
+      "name": "Ánh Dương",
+      "shop_link": "https://shopee.vn/phanphoianhduong.com.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/52b07988b5114f1c5875d27f82ac838c",
+      "category": "Mẹ & Bé"
+    },
+    {
+      "name": "ABG Official Store",
+      "shop_link": "https://shopee.vn/abg_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/6bbcf19e17d8bf3c16f33bfbee9661eb",
+      "category": "Nhà Cửa & Đời Sống"
+    },
+    {
+      "name": "advindeq_official_store",
+      "shop_link": "https://shopee.vn/newage.distribution",
+      "logo": "https://down-vn.img.susercontent.com/file/0c937aae8e3de7bb71825c081ac28fb5",
+      "category": "Nhà Cửa & Đời Sống"
+    },
+    {
+      "name": "Akemi Official Store",
+      "shop_link": "https://shopee.vn/akemivn.os",
+      "logo": "https://down-vn.img.susercontent.com/file/2e38d811fce16fe78b937300388d4f90",
+      "category": "Nhà Cửa & Đời Sống"
+    },
+    {
+      "name": "Alobuy",
+      "shop_link": "https://shopee.vn/1khovn_bach_hoa_tien_loi",
+      "logo": "https://down-vn.img.susercontent.com/file/7874e31498733db862102bf287ea03f9",
+      "category": "Nhà Cửa & Đời Sống"
+    },
+    {
+      "name": "anivia.officialstore",
+      "shop_link": "https://shopee.vn/anivia.officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/d533dcaf06d779993948e68fa444bd1a",
+      "category": "Nhà Cửa & Đời Sống"
+    },
+    {
+      "name": "Arize Home",
+      "shop_link": "https://shopee.vn/arizevn",
+      "logo": "https://down-vn.img.susercontent.com/file/821c936a6cf6ed34bda833f5e2426cac",
+      "category": "Nhà Cửa & Đời Sống"
+    },
+    {
+      "name": "Aroma Official Shop",
+      "shop_link": "https://shopee.vn/nemaroma",
+      "logo": "https://down-vn.img.susercontent.com/file/794228a0f448d19938c00424ad0c00ff",
+      "category": "Nhà Cửa & Đời Sống"
+    },
+    {
+      "name": "Avohome",
+      "shop_link": "https://shopee.vn/avohome_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/3dd6757035074b9c66deaacb3ed2726d",
+      "category": "Nhà Cửa & Đời Sống"
+    },
+    {
+      "name": "Ánh Chinh",
+      "shop_link": "https://shopee.vn/dienmayanhchinh",
+      "logo": "https://down-vn.img.susercontent.com/file/46b7c8665c9f77b483599cdcebed8f07",
+      "category": "Nhà Cửa & Đời Sống"
+    },
+    {
+      "name": "Á Châu Books",
+      "shop_link": "https://shopee.vn/a_chau_books",
+      "logo": "https://down-vn.img.susercontent.com/file/6a81a73a5d7752884cd08cde6a89176b",
+      "category": "Nhà Sách Online"
+    },
+    {
+      "name": "ABC Books",
+      "shop_link": "https://shopee.vn/baongochb93",
+      "logo": "https://down-vn.img.susercontent.com/file/110948475cc81e88d0a0ebeefa3994c5",
+      "category": "Nhà Sách Online"
+    },
+    {
+      "name": "Academy Vietstem",
+      "shop_link": "https://shopee.vn/academyvietstem",
+      "logo": "https://down-vn.img.susercontent.com/file/f6b29d6b20294488c69a89ae0e88b7bc",
+      "category": "Nhà Sách Online"
+    },
+    {
+      "name": "Akira Manga",
+      "shop_link": "https://shopee.vn/akiramanga",
+      "logo": "https://down-vn.img.susercontent.com/file/d52c173adebef7fbb9a2d3243e77623c",
+      "category": "Nhà Sách Online"
+    },
+    {
+      "name": "Amak",
+      "shop_link": "https://shopee.vn/nhasachamak",
+      "logo": "https://down-vn.img.susercontent.com/file/dd0be720e50b7f3d56eb22fd4ca54a43",
+      "category": "Nhà Sách Online"
+    },
+    {
+      "name": "An Hưng Books",
+      "shop_link": "https://shopee.vn/ahbooks",
+      "logo": "https://down-vn.img.susercontent.com/file/d0c4ffedd94b5b669283ff3478191d98",
+      "category": "Nhà Sách Online"
+    },
+    {
+      "name": "An Nguyên",
+      "shop_link": "https://shopee.vn/sachhayquanhieu",
+      "logo": "https://down-vn.img.susercontent.com/file/3d3faa67b756b1e69824886d4a006ac2",
+      "category": "Nhà Sách Online"
+    },
+    {
+      "name": "An Phúc",
+      "shop_link": "https://shopee.vn/anphuc.bookstore",
+      "logo": "https://down-vn.img.susercontent.com/file/0292aad5973a8255336766919b2aa41f",
+      "category": "Nhà Sách Online"
+    },
+    {
+      "name": "Ánh Dương Books",
+      "shop_link": "https://shopee.vn/anhduongbooks2019",
+      "logo": "https://down-vn.img.susercontent.com/file/cef87a96ad2ade17d41c3ed269131c99",
+      "category": "Nhà Sách Online"
+    },
+    {
+      "name": "Aramon",
+      "shop_link": "https://shopee.vn/aramon",
+      "logo": "https://down-vn.img.susercontent.com/file/04a0f76a3e08c16704ea4a9097f0574e",
+      "category": "Nhà Sách Online"
+    },
+    {
+      "name": "AZ Việt Nam",
+      "shop_link": "https://shopee.vn/nhasachazvietnam",
+      "logo": "https://down-vn.img.susercontent.com/file/5510bf9c40b6edb0dac1b5c7235c0614",
+      "category": "Nhà Sách Online"
+    },
+    {
+      "name": "Amooi Siliver",
+      "shop_link": "https://shopee.vn/amooisilver",
+      "logo": "https://down-vn.img.susercontent.com/file/9cb1fb47d177614ef5c1b559ae46dcc8",
+      "category": "Phụ Kiện & Trang Sức Nữ"
+    },
+    {
+      "name": "Ancarat",
+      "shop_link": "https://shopee.vn/ancarat.hcm",
+      "logo": "https://down-vn.img.susercontent.com/file/0c35f3dfbdd15cf99352005ba8b82829",
+      "category": "Phụ Kiện & Trang Sức Nữ"
+    },
+    {
+      "name": "Ann365 Official Store",
+      "shop_link": "https://shopee.vn/ann365lens_official",
+      "logo": "https://down-vn.img.susercontent.com/file/de4e3d18439d3121aaec09ab1d020513",
+      "category": "Phụ Kiện & Trang Sức Nữ"
+    },
+    {
+      "name": "Anta Jewelry",
+      "shop_link": "https://shopee.vn/anta.officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/2962a36e230d9ea0562a5c8c793f0200",
+      "category": "Phụ Kiện & Trang Sức Nữ"
+    },
+    {
+      "name": "Bạc Quang Thản",
+      "shop_link": "https://shopee.vn/bacquangthan",
+      "logo": "https://down-vn.img.susercontent.com/file/02ebec8c407a14967605e77b628341a5",
+      "category": "Phụ Kiện & Trang Sức Nữ"
+    },
+    {
+      "name": "Bamoer",
+      "shop_link": "https://shopee.vn/bamoer.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/59843d2bc0eb3160bb3cdf11d0436611",
+      "category": "Phụ Kiện & Trang Sức Nữ"
+    },
+    {
+      "name": "Bảo Ngọc Jewelry",
+      "shop_link": "https://shopee.vn/baongocjewelry",
+      "logo": "https://down-vn.img.susercontent.com/file/c30728e47d93cf40dbfcaf908eb9255c",
+      "category": "Phụ Kiện & Trang Sức Nữ"
+    },
+    {
+      "name": "Bảo Tín Mạnh Hải Official",
+      "shop_link": "https://shopee.vn/baotinmanhhai_official",
+      "logo": "https://down-vn.img.susercontent.com/file/7547680060986281cffe822482dfd02a",
+      "category": "Phụ Kiện & Trang Sức Nữ"
+    },
+    {
+      "name": "aajwszsleh",
+      "shop_link": "https://shopee.vn/antahn_official",
+      "logo": "https://down-vn.img.susercontent.com/file/ba17c64806c53364ae798cdd8e00dc05",
+      "category": "Sắc Đẹp"
+    },
+    {
+      "name": "abbottfreestylelibre",
+      "shop_link": "https://shopee.vn/abbottfreestylelibre",
+      "logo": "https://down-vn.img.susercontent.com/file/4d7eefe81ba18a16415a5f5e1fca930a",
+      "category": "Sắc Đẹp"
+    },
+    {
+      "name": "Abena",
+      "shop_link": "https://shopee.vn/abcare.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/2c458ae1f1ce54d4baf63883a6cd13c1",
+      "category": "Sắc Đẹp"
+    },
+    {
+      "name": "abisalab.official",
+      "shop_link": "https://shopee.vn/abisalab.official",
+      "logo": "https://down-vn.img.susercontent.com/file/a96c1c31df1d7f2a0b007dab9603cc39",
+      "category": "Sắc Đẹp"
+    },
+    {
+      "name": "Adidas Body Care",
+      "shop_link": "https://shopee.vn/bodycare_store",
+      "logo": "https://down-vn.img.susercontent.com/file/06f29b672380d158c229d9d4d60b6ae8",
+      "category": "Sắc Đẹp"
+    },
+    {
+      "name": "Adiva Official Shop",
+      "shop_link": "https://shopee.vn/adiva_officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/vn-50009109-6ca47ecc1f0da8de4ccb4464854b98ce",
+      "category": "Sắc Đẹp"
+    },
+    {
+      "name": "adoptvietnam",
+      "shop_link": "https://shopee.vn/adoptvietnam",
+      "logo": "https://down-vn.img.susercontent.com/file/13af64c393df9924403e95e20444dc56",
+      "category": "Sắc Đẹp"
+    },
+    {
+      "name": "Age 20's",
+      "shop_link": "https://shopee.vn/age20s_officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/f333c6f5306ce513ae59cb4f4aba4aed",
+      "category": "Sắc Đẹp"
+    },
+    {
+      "name": "ahohawofficial.vn",
+      "shop_link": "https://shopee.vn/ahohawofficial.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/1d9ee8bc0ff330fbdc5d347c1be564e6",
+      "category": "Sắc Đẹp"
+    },
+    {
+      "name": "aishitoto_officialstore",
+      "shop_link": "https://shopee.vn/aishitoto_officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/e2d4d7855d3098c4d24a27de783ee912",
+      "category": "Sắc Đẹp"
+    },
+    {
+      "name": "ajaskinlab.official",
+      "shop_link": "https://shopee.vn/ajaskinlab.official",
+      "logo": "https://down-vn.img.susercontent.com/file/0ddbcbca22b0c6ca297b2f29d98ecd7e",
+      "category": "Sắc Đẹp"
+    },
+    {
+      "name": "albabotanicavietnam",
+      "shop_link": "https://shopee.vn/albabotanicavietnam",
+      "logo": "https://down-vn.img.susercontent.com/file/7130ba6271941fa87fa8bb44425c2528",
+      "category": "Sắc Đẹp"
+    },
+    {
+      "name": "abbottfreestylelibre",
+      "shop_link": "https://shopee.vn/abbottfreestylelibre",
+      "logo": "https://down-vn.img.susercontent.com/file/4d7eefe81ba18a16415a5f5e1fca930a",
+      "category": "Sức Khỏe"
+    },
+    {
+      "name": "Accu-Chek Official Store",
+      "shop_link": "https://shopee.vn/accuchek_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/vn-50009109-7833c83469a76f0a99bfa16b9a69deb4",
+      "category": "Sức Khỏe"
+    },
+    {
+      "name": "Adiva Official Shop",
+      "shop_link": "https://shopee.vn/adiva_officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/vn-50009109-6ca47ecc1f0da8de4ccb4464854b98ce",
+      "category": "Sức Khỏe"
+    },
+    {
+      "name": "adoptvietnam",
+      "shop_link": "https://shopee.vn/adoptvietnam",
+      "logo": "https://down-vn.img.susercontent.com/file/13af64c393df9924403e95e20444dc56",
+      "category": "Sức Khỏe"
+    },
+    {
+      "name": "ahohawofficial.vn",
+      "shop_link": "https://shopee.vn/ahohawofficial.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/1d9ee8bc0ff330fbdc5d347c1be564e6",
+      "category": "Sức Khỏe"
+    },
+    {
+      "name": "aishitoto_officialstore",
+      "shop_link": "https://shopee.vn/aishitoto_officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/e2d4d7855d3098c4d24a27de783ee912",
+      "category": "Sức Khỏe"
+    },
+    {
+      "name": "ajaskinlab.official",
+      "shop_link": "https://shopee.vn/ajaskinlab.official",
+      "logo": "https://down-vn.img.susercontent.com/file/0ddbcbca22b0c6ca297b2f29d98ecd7e",
+      "category": "Sức Khỏe"
+    },
+    {
+      "name": "Anessa",
+      "shop_link": "https://shopee.vn/anessaofficialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/419d8cb6766040e5dae7730ea2dfa349",
+      "category": "Sức Khỏe"
+    },
+    {
+      "name": "anthaomoc",
+      "shop_link": "https://shopee.vn/anthaomoc",
+      "logo": "https://down-vn.img.susercontent.com/file/bfaa4f0b1f2400c15b307212fa0a9ab3",
+      "category": "Sức Khỏe"
+    },
+    {
+      "name": "asia_pharma",
+      "shop_link": "https://shopee.vn/asia_pharma",
+      "logo": "https://down-vn.img.susercontent.com/file/e1e40ee8832e7d9f0da011f00d88c90c",
+      "category": "Sức Khỏe"
+    },
+    {
+      "name": "Alma Mart",
+      "shop_link": "https://shopee.vn/almamart_official",
+      "logo": "https://down-vn.img.susercontent.com/file/8e444058ebe6d959f8f0002bc2d68359",
+      "category": "Thiết Bị Điện Gia Dụng"
+    },
+    {
+      "name": "Amazfit",
+      "shop_link": "https://shopee.vn/amazfit_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/c75b7921c45ee201c2a33da3613ad6d6",
+      "category": "Thiết Bị Điện Gia Dụng"
+    },
+    {
+      "name": "Anker",
+      "shop_link": "https://shopee.vn/ankervn",
+      "logo": "https://down-vn.img.susercontent.com/file/53ad7e065590a8206d91db4863dfe6cf",
+      "category": "Thiết Bị Điện Gia Dụng"
+    },
+    {
+      "name": "Aoron",
+      "shop_link": "https://shopee.vn/aoron.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/10372d35b4fb7cec1761a5ceeaedda44",
+      "category": "Thiết Bị Điện Gia Dụng"
+    },
+    {
+      "name": "Apple",
+      "shop_link": "https://shopee.vn/apple_flagship_store",
+      "logo": "https://down-vn.img.susercontent.com/file/9833088fd62135c66eac59ef0f3be192",
+      "category": "Thiết Bị Điện Gia Dụng"
+    },
+    {
+      "name": "Ariston Official Store",
+      "shop_link": "https://shopee.vn/ariston_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/5da7914958188508db722fbdf2ccae8b",
+      "category": "Thiết Bị Điện Gia Dụng"
+    },
+    {
+      "name": "Aubess",
+      "shop_link": "https://shopee.vn/aubess.experience.store.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/vn-50009109-09c0a6fa7c3ed1495b852a83ee01bbd2",
+      "category": "Thiết Bị Điện Gia Dụng"
+    },
+    {
+      "name": "Aun Offcial Store",
+      "shop_link": "https://shopee.vn/aun_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/2c42fc668e705861f01ff3c01e4782d1",
+      "category": "Thiết Bị Điện Gia Dụng"
+    },
+    {
+      "name": "Alobuy",
+      "shop_link": "https://shopee.vn/alobuy_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/7874e31498733db862102bf287ea03f9",
+      "category": "Thiết Bị Điện Tử"
+    },
+    {
+      "name": "Amazfit",
+      "shop_link": "https://shopee.vn/amazfit_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/c75b7921c45ee201c2a33da3613ad6d6",
+      "category": "Thiết Bị Điện Tử"
+    },
+    {
+      "name": "Apple",
+      "shop_link": "https://shopee.vn/apple_flagship_store",
+      "logo": "https://down-vn.img.susercontent.com/file/9833088fd62135c66eac59ef0f3be192",
+      "category": "Thiết Bị Điện Tử"
+    },
+    {
+      "name": "Arirang Life",
+      "shop_link": "https://shopee.vn/life360_store",
+      "logo": "https://down-vn.img.susercontent.com/file/a80411c53d954520171bfa0a04fd957f",
+      "category": "Thiết Bị Điện Tử"
+    },
+    {
+      "name": "Asanzo",
+      "shop_link": "https://shopee.vn/asanzo_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/c8a99468da0cbc3c9290e43fb6897d77",
+      "category": "Thiết Bị Điện Tử"
+    },
+    {
+      "name": "Asiavina Official Store",
+      "shop_link": "https://shopee.vn/asiavina_vn_official",
+      "logo": "https://down-vn.img.susercontent.com/file/53c0dd410480fca41ec7381bb7880004",
+      "category": "Thiết Bị Điện Tử"
+    },
+    {
+      "name": "Ánh Chinh",
+      "shop_link": "https://shopee.vn/dienmayanhchinh",
+      "logo": "https://down-vn.img.susercontent.com/file/46b7c8665c9f77b483599cdcebed8f07",
+      "category": "Thiết Bị Điện Tử"
+    },
+    {
+      "name": "Adidas Official Store",
+      "shop_link": "https://shopee.vn/adidasofficialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/3a7da458d20218cfb0db50b7c6377812",
+      "category": "Thể Thao & Du Lịch"
+    },
+    {
+      "name": "Aki Sport",
+      "shop_link": "https://shopee.vn/akisport.net",
+      "logo": "https://down-vn.img.susercontent.com/file/eea895f6e058cbef2755b7a133d084fc",
+      "category": "Thể Thao & Du Lịch"
+    },
+    {
+      "name": "Amalife Việt Nam",
+      "shop_link": "https://shopee.vn/amalife_vietnam",
+      "logo": "https://down-vn.img.susercontent.com/file/b8ee116e29e5eec858be6a8e50fece5c",
+      "category": "Thể Thao & Du Lịch"
+    },
+    {
+      "name": "Andrealin",
+      "shop_link": "https://shopee.vn/_andrealin",
+      "logo": "https://down-vn.img.susercontent.com/file/vn-50009109-ce8ff3b80a6a6f80a065742c620ddd04",
+      "category": "Thể Thao & Du Lịch"
+    },
+    {
+      "name": "Aobongda247.net",
+      "shop_link": "https://shopee.vn/giaydabong24h",
+      "logo": "https://down-vn.img.susercontent.com/file/316e3d2b35a5b53deaf6c3805af24355",
+      "category": "Thể Thao & Du Lịch"
+    },
+    {
+      "name": "Aolikes Sports",
+      "shop_link": "https://shopee.vn/aolikessports",
+      "logo": "https://down-vn.img.susercontent.com/file/1069556a4d1791094806353976b6b15c",
+      "category": "Thể Thao & Du Lịch"
+    },
+    {
+      "name": "Asics",
+      "shop_link": "https://shopee.vn/maxxsport.com.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/5d1680b0117cb57d658fc23f68c494e1",
+      "category": "Thể Thao & Du Lịch"
+    },
+    {
+      "name": "Afast Việt Nam",
+      "shop_link": "https://shopee.vn/atuner.official",
+      "logo": "https://down-vn.img.susercontent.com/file/520da097555edc0f286bb11b08eff168",
+      "category": "Thời Trang Nam"
+    },
+    {
+      "name": "Akuba",
+      "shop_link": "https://shopee.vn/akuba.menswear",
+      "logo": "https://down-vn.img.susercontent.com/file/991fc20ef09150a1e6d16aa03ea68620",
+      "category": "Thời Trang Nam"
+    },
+    {
+      "name": "Akyoo",
+      "shop_link": "https://shopee.vn/akyoo_fashion",
+      "logo": "https://down-vn.img.susercontent.com/file/9bbb218dc14fd807b856360f569b6f56",
+      "category": "Thời Trang Nam"
+    },
+    {
+      "name": "Amazing",
+      "shop_link": "https://shopee.vn/amazingthoitrang",
+      "logo": "https://down-vn.img.susercontent.com/file/5af447cbacbb9147fa80af155287e32f",
+      "category": "Thời Trang Nam"
+    },
+    {
+      "name": "Aremi",
+      "shop_link": "https://shopee.vn/aremishop_2020",
+      "logo": "https://down-vn.img.susercontent.com/file/48f200699bf2108b66ad2a3b7d390da9",
+      "category": "Thời Trang Nam"
+    },
+    {
+      "name": "Aristino",
+      "shop_link": "https://shopee.vn/aristino_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/7a865cf07ca7d9cc73b030a546eeb542",
+      "category": "Thời Trang Nam"
+    },
+    {
+      "name": "Aristino",
+      "shop_link": "https://shopee.vn/aristinovietnam",
+      "logo": "https://down-vn.img.susercontent.com/file/4a2d4fc889494aac2926449eeac35312",
+      "category": "Thời Trang Nam"
+    },
+    {
+      "name": "Aristino",
+      "shop_link": "https://shopee.vn/aristino_officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/958f273b2f5027dc58f30c777f1b4b36",
+      "category": "Thời Trang Nam"
+    },
+    {
+      "name": "Armous Clothing",
+      "shop_link": "https://shopee.vn/armousclothing",
+      "logo": "https://down-vn.img.susercontent.com/file/9b435136439b4f4319da1156f27ade14",
+      "category": "Thời Trang Nam"
+    },
+    {
+      "name": "Asirtiono Offcial",
+      "shop_link": "https://shopee.vn/aristino_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/258263e1927d0672d4b0095ad2596601",
+      "category": "Thời Trang Nam"
+    },
+    {
+      "name": "Anh Thơ",
+      "shop_link": "https://shopee.vn/anhtholeather",
+      "logo": "https://down-vn.img.susercontent.com/file/c70052c81ab446213aeb8a1e54711270",
+      "category": "Thời Trang Nam"
+    },
+    {
+      "name": "ATINO Official",
+      "shop_link": "https://shopee.vn/atino.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/b05feba7d59cdda344d51d4b42c0252a",
+      "category": "Thời Trang Nam"
+    },
+    {
+      "name": "A Tous",
+      "shop_link": "https://shopee.vn/atous.clothing",
+      "logo": "https://down-vn.img.susercontent.com/file/633ca4950739e0ce8d2c5c405f1ad99f",
+      "category": "Thời Trang Nữ"
+    },
+    {
+      "name": "AAA",
+      "shop_link": "https://shopee.vn/aaajeans",
+      "logo": "https://down-vn.img.susercontent.com/file/581ec91f861836046be1e31abba5ed1b",
+      "category": "Thời Trang Nữ"
+    },
+    {
+      "name": "Adore Dress",
+      "shop_link": "https://shopee.vn/thoitrangtreadoredress",
+      "logo": "https://down-vn.img.susercontent.com/file/1cb3cc0463cd2bd32f90668bad80d45e",
+      "category": "Thời Trang Nữ"
+    },
+    {
+      "name": "Alice Official Store",
+      "shop_link": "https://shopee.vn/aliceofficialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/e1270f962c5e10065c7aa5f999fe08b2",
+      "category": "Thời Trang Nữ"
+    },
+    {
+      "name": "American Pie",
+      "shop_link": "https://shopee.vn/americanpiesupply",
+      "logo": "https://down-vn.img.susercontent.com/file/27f65a3b43d7efa781e1d0fa3b9b4b37",
+      "category": "Thời Trang Nữ"
+    },
+    {
+      "name": "Ao Dec",
+      "shop_link": "https://shopee.vn/aodec.official",
+      "logo": "https://down-vn.img.susercontent.com/file/2e8b6a0cb018e9b99fe93aba185a5a21",
+      "category": "Thời Trang Nữ"
+    },
+    {
+      "name": "Abbieoh",
+      "shop_link": "https://shopee.vn/abbie.oh",
+      "logo": "https://down-vn.img.susercontent.com/file/1395d77600f27b740f51ec7f65aa983e",
+      "category": "Thời Trang Trẻ Em"
+    },
+    {
+      "name": "Ain Closet Official Store",
+      "shop_link": "https://shopee.vn/aincloset",
+      "logo": "https://down-vn.img.susercontent.com/file/89efae86efcf8b81c8b6695a28499cbf",
+      "category": "Thời Trang Trẻ Em"
+    },
+    {
+      "name": "Alber Kids",
+      "shop_link": "https://shopee.vn/alberkids",
+      "logo": "https://down-vn.img.susercontent.com/file/795b5e8f16a0b99f2614fcfd0c313c59",
+      "category": "Thời Trang Trẻ Em"
+    },
+    {
+      "name": "Anby",
+      "shop_link": "https://shopee.vn/anby_store",
+      "logo": "https://down-vn.img.susercontent.com/file/c6191edd66681c4186252a720d3782a5",
+      "category": "Thời Trang Trẻ Em"
+    },
+    {
+      "name": "Arich Shop",
+      "shop_link": "https://shopee.vn/arich.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/4cf2eb14f4b3831c1efe610508fd06ab",
+      "category": "Thời Trang Trẻ Em"
+    },
+    {
+      "name": "Aldo",
+      "shop_link": "https://shopee.vn/aldovietnamofficial",
+      "logo": "https://down-vn.img.susercontent.com/file/2eb9be14fb6641c6f8258f169ed21b05",
+      "category": "Túi Ví Nữ"
+    },
+    {
+      "name": "Artë Bags",
+      "shop_link": "https://shopee.vn/arte_vn",
+      "logo": "https://down-vn.img.susercontent.com/file/36d7297ec76a57e6948ad6a4a04342b4",
+      "category": "Túi Ví Nữ"
+    },
+    {
+      "name": "Balo 4.0",
+      "shop_link": "https://shopee.vn/balocongnghe",
+      "logo": "https://down-vn.img.susercontent.com/file/35b2ed22dcfe251e4317eef790def318",
+      "category": "Túi Ví Nữ"
+    },
+    {
+      "name": "Bama Bag",
+      "shop_link": "https://shopee.vn/bama.bag",
+      "logo": "https://down-vn.img.susercontent.com/file/1e704815c48927976494c5c28a59f186",
+      "category": "Túi Ví Nữ"
+    },
+    {
+      "name": "Bee Gee",
+      "shop_link": "https://shopee.vn/beegeeoriginal",
+      "logo": "https://down-vn.img.susercontent.com/file/ff5afd14a5f6a47e54648ca27f599166",
+      "category": "Túi Ví Nữ"
+    },
+    {
+      "name": "Biti's",
+      "shop_link": "https://shopee.vn/bitisvn",
+      "logo": "https://down-vn.img.susercontent.com/file/81c42e9ab723e53ee7b7b363b036bdc8",
+      "category": "Túi Ví Nữ"
+    },
+    {
+      "name": "Bảo Hiểm Toàn Cầu GIC",
+      "shop_link": "https://shopee.vn/global_insurance_corporation",
+      "logo": "https://down-vn.img.susercontent.com/file/ed62689bb3025ea073e3355fbd5b501e",
+      "category": "Voucher & Dịch Vụ"
+    },
+    {
+      "name": "cfycvn",
+      "shop_link": "https://shopee.vn/cfycvn",
+      "logo": "https://down-vn.img.susercontent.com/file/8119aeaa8353b557b6aaff7a39dc4f1b",
+      "category": "Voucher & Dịch Vụ"
+    },
+    {
+      "name": "Afast Vietnam",
+      "shop_link": "https://shopee.vn/afast.helmets",
+      "logo": "https://down-vn.img.susercontent.com/file/vn-50009109-238591e20212afbab2b9ed8b6f1078c5",
+      "category": "Ô Tô & Xe Máy & Xe Đạp"
+    },
+    {
+      "name": "AGV Việt Nam",
+      "shop_link": "https://shopee.vn/agv_vietnam",
+      "logo": "https://down-vn.img.susercontent.com/file/0f99c20d7e35cf1991d9c2e08742b9d8",
+      "category": "Ô Tô & Xe Máy & Xe Đạp"
+    },
+    {
+      "name": "Areon Store",
+      "shop_link": "https://shopee.vn/areonstore",
+      "logo": "https://down-vn.img.susercontent.com/file/178392ea61fff33b39bd90dfbb6c58d9",
+      "category": "Ô Tô & Xe Máy & Xe Đạp"
+    },
+    {
+      "name": "Autool Official Store",
+      "shop_link": "https://shopee.vn/autool.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/59c29a1c78d2ac6d87bffbf91c450274",
+      "category": "Ô Tô & Xe Máy & Xe Đạp"
+    },
+    {
+      "name": "B;color Helmet",
+      "shop_link": "https://shopee.vn/mubaohiembcolor",
+      "logo": "https://down-vn.img.susercontent.com/file/f09549e74d675f4be14fec95376145c2",
+      "category": "Ô Tô & Xe Máy & Xe Đạp"
+    },
+    {
+      "name": "Bluechem Group",
+      "shop_link": "https://shopee.vn/bluechemgroup_officialstore",
+      "logo": "https://down-vn.img.susercontent.com/file/96311010076c32dc43f1d40022d6f31e",
+      "category": "Ô Tô & Xe Máy & Xe Đạp"
+    },
+    {
+      "name": "Bluesea Helmet",
+      "shop_link": "https://shopee.vn/bluesea.helmet",
+      "logo": "https://down-vn.img.susercontent.com/file/vn-50009109-da0564291beaf196e35df540cc26018a",
+      "category": "Ô Tô & Xe Máy & Xe Đạp"
+    },
+    {
+      "name": "Bulldog shop",
+      "shop_link": "https://shopee.vn/baohoxemaybaochau",
+      "logo": "https://down-vn.img.susercontent.com/file/2177d0b2c540a486a6bc86f36b9e72ff",
+      "category": "Ô Tô & Xe Máy & Xe Đạp"
+    },
+    {
+      "name": "Adonit",
+      "shop_link": "https://shopee.vn/adonitvietnam",
+      "logo": "https://down-vn.img.susercontent.com/file/929648465dd0a22762a94ec29a20c85f",
+      "category": "Điện Thoại & Phụ Kiện"
+    },
+    {
+      "name": "AKUS Flagship Store",
+      "shop_link": "https://shopee.vn/akusvn",
+      "logo": "https://down-vn.img.susercontent.com/file/9d023c15a064b92d6a78a994caee46bc",
+      "category": "Điện Thoại & Phụ Kiện"
+    },
+    {
+      "name": "Anker",
+      "shop_link": "https://shopee.vn/ankervn",
+      "logo": "https://down-vn.img.susercontent.com/file/53ad7e065590a8206d91db4863dfe6cf",
+      "category": "Điện Thoại & Phụ Kiện"
+    },
+    {
+      "name": "Antam Trading",
+      "shop_link": "https://shopee.vn/theanhpv",
+      "logo": "https://down-vn.img.susercontent.com/file/f4e65abf43e4d795b0892ade96856b2b",
+      "category": "Điện Thoại & Phụ Kiện"
+    },
+    {
+      "name": "Bagi",
+      "shop_link": "https://shopee.vn/bagi_store",
+      "logo": "https://down-vn.img.susercontent.com/file/424c9bd4619937a8b9bf06fcbc7795f8",
+      "category": "Điện Thoại & Phụ Kiện"
+    },
+    {
+      "name": "Baracat Tech",
+      "shop_link": "https://shopee.vn/bacarat_tech",
+      "logo": "https://down-vn.img.susercontent.com/file/c9d7e0ec90b276d1bc8d8dabc73be70a",
+      "category": "Điện Thoại & Phụ Kiện"
+    },
+    {
+      "name": "Baseus Accessories",
+      "shop_link": "https://shopee.vn/beisi.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/cbbc0de54c2f054e777bcae6421c78a1",
+      "category": "Điện Thoại & Phụ Kiện"
+    },
+    {
+      "name": "Baseus Official Shop",
+      "shop_link": "https://shopee.vn/baseus.official.mall.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/c52988a46518f3e89d99e22f3d911fd7",
+      "category": "Điện Thoại & Phụ Kiện"
+    },
+    {
+      "name": "Alilo Offcial",
+      "shop_link": "https://shopee.vn/alilo_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/35cedb36a4688091af4866ab598f624e",
+      "category": "Đồ Chơi"
+    },
+    {
+      "name": "Artbox",
+      "shop_link": "https://shopee.vn/artboxmall.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/1eeb5330368ef8afbb34e80564bfcf76",
+      "category": "Đồ Chơi"
+    },
+    {
+      "name": "Baby của tôi",
+      "shop_link": "https://shopee.vn/bbtglobal",
+      "logo": "https://down-vn.img.susercontent.com/file/fbe32a02a1090dd4eb6ef2abcf9fb391",
+      "category": "Đồ Chơi"
+    },
+    {
+      "name": "Baby Plaza",
+      "shop_link": "https://shopee.vn/babyplaza_official_store",
+      "logo": "https://down-vn.img.susercontent.com/file/e2ed32724ed80f9a2f9452eb2aac5902",
+      "category": "Đồ Chơi"
+    },
+    {
+      "name": "Benrikids",
+      "shop_link": "https://shopee.vn/benrikids",
+      "logo": "https://down-vn.img.susercontent.com/file/b2a8c9292c40e7b3040e0bea3f1f6193",
+      "category": "Đồ Chơi"
+    },
+    {
+      "name": "Board Game",
+      "shop_link": "https://shopee.vn/boardgamevn",
+      "logo": "https://down-vn.img.susercontent.com/file/cd4f6d87318cd44ec52f353a20997600",
+      "category": "Đồ Chơi"
+    },
+    {
+      "name": "Bảo Thanh",
+      "shop_link": "https://shopee.vn/donghobaothanh",
+      "logo": "https://down-vn.img.susercontent.com/file/2383866ffbed6dcc62b6ac83b274c354",
+      "category": "Đồng Hồ"
+    },
+    {
+      "name": "Bello",
+      "shop_link": "https://shopee.vn/bello.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/4e44994b06dd606a8fc475609dd484d2",
+      "category": "Đồng Hồ"
+    },
+    {
+      "name": "Bostanten",
+      "shop_link": "https://shopee.vn/bostanten.vn",
+      "logo": "https://down-vn.img.susercontent.com/file/abc87ba534e5abb26495d8977a1f544a",
+      "category": "Đồng Hồ"
+    },
+    {
+      "name": "Casio An Khuê Sài Gòn",
+      "shop_link": "https://shopee.vn/casiovietnam.net",
+      "logo": "https://down-vn.img.susercontent.com/file/e4d761988597c736c5353e420f414260",
+      "category": "Đồng Hồ"
+    }
+  ],
+  "categoryOfShop": [],
+  "products": []
+}
